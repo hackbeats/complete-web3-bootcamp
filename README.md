@@ -19,7 +19,8 @@ A youtube clone where users get to connect their wallet to access videos
 A twitter clone where users sign in to twitter using their crypto wallet
 
 ## Web3 Learning resources
-[Learn Web3 Dao](https://learnweb3.io)
-[Cadena](https://cadena.dev)
-[Figment](https://figment.io)
-[Build space](https://buildspace.so)
+- [Learn Web3 Dao](https://learnweb3.io)
+- [Cadena](https://cadena.dev)
+- [Figment](https://figment.io)
+- [Build space](https://buildspace.so)
+- [Moralis Academy](https://academy.moralis.io)
