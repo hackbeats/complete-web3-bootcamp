@@ -27,3 +27,4 @@ A twitter clone where users sign in to twitter using their crypto wallet
 
 ## Web3 articles 
 - [What Is Web3 All About? An Easy Explanation With Examples](https://www.forbes.com/sites/bernardmarr/2022/01/24/what-is-web3-all-about-an-easy-explanation-with-examples/?sh=3e7e30cb2255)
+- [Become a blockchain Expert: Beginner to Advanced (for FREE)](https://trustchain.medium.com/become-a-blockchain-expert-beginner-to-advanced-for-free-65ce62606176)
