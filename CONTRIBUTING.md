@@ -10,7 +10,7 @@ Support questions
     [Discord](https://discord.gg/DDAFdSRu)
 -   Ask on our `GitHub Discussions`_ for long term discussion or larger
     questions.
--   GitHub Discussions: https://github.com/hackbeats/python-bootcamp/discussions
+-   GitHub Discussions: https://github.com/hackbeats/complete-web3-bootcamp/discussions
 
 
 Reporting issues
