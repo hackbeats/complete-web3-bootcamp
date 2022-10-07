@@ -73,7 +73,8 @@ A twitter clone where users sign in to twitter using their crypto wallet
 - [Web3.university](https://www.web3.university)
 - [Metaschool](https://metaschool.so/)
 - [Alchemy University](https://university.alchemy.com/)
-
+- [Codeacademy Introduction to Blockchain and Crypto](https://www.codecademy.com/pages/blockchain-crypto)
+- [useweb3](https://www.useweb3.xyz/)
 
 ## Whitepapers
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
