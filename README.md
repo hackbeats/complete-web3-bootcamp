@@ -42,4 +42,5 @@ A twitter clone where users sign in to twitter using their crypto wallet
 - [Solana developer Resources](https://solana.com/developers)
 - [The complete roadmap and resources to become a web3 developer](https://blog.suhailkakar.com/the-complete-roadmap-and-resources-to-become-a-web3-developer-in-2022)
 - [Become a blockchain Expert: Beginner to Advanced (for FREE)](https://trustchain.medium.com/become-a-blockchain-expert-beginner-to-advanced-for-free-65ce62606176)
+- [Why NFTs are hard to explain](https://medium.com/@nic__carter/why-nfts-are-hard-to-explain-48f0ab0a35bf)
 
