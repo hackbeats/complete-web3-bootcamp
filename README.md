@@ -26,7 +26,7 @@ A twitter clone where users sign in to twitter using their crypto wallet
 - [Moralis Academy](https://academy.moralis.io)
 - [30 Days of Web3](https://30daysofweb3.xyz)
 - [Web3.university](https://www.web3.university)
-- [Alchemy](https://www.alchemy.com/)
+- [Alchemy](https://university.alchemy.com/)
 - [Metaschool](https://metaschool.so/)
 
 
