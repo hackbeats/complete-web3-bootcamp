@@ -1,5 +1,50 @@
-# complete-web3-bootcamp
+<img src='https://i.imgur.com/ec58cKI.jpg'/>
+
+## Hey 👋 everyone , *hacktoberfest* is back with biggest beginners friendly opensource event. Event will start from 1st of October and will remain upto 31st October 2022
+
+### What you need to do in this event?
+
+## You need to generate 4 valid pull request and want to contribute in opensource
+
+### let's discuss how you can contribute in *hacktoberfest 2022* 🙌
+
+### Rules
+
+**1) Fork this repository first**
+
+**2) Star this repository⭐**
+
+**3) Create a new issue detailing what you want to add and create a branch from the issue**
+
+**4) Add your details in the CONTRIBUTING.md file⭐**
+
+**5) check for tags like `hacktoberfest` , `goofirstissue` or generate  a new issue if you have some crazy ideas 
+
+# Some Code Guidelines
+
+1. Variable name should be meaningful.
+2. Use comments in your code.
+3. Your Code must be pretty formated.
+
+### After a valid pull request your code will be carefully reviewed and if it matches the rule then it will be accepted otherwise you need to generate a new file
+
+<h1 align=center> 🦄 complete-web3-bootcamp 🦄  </h1> 
+
+
+ <p  align="center">
 Learn full stack web3 development in just 6 months
+</p>
+
+<p align="center">
+<b><a href="https://discord.gg/DDAFdSRu" target="_blank">
+<font size="100"> Be a part of our Community on Discord 🚀</font>
+</a>
+</b>
+<br>
+
+</p>
+
+
 
 
 ## List of web3 Projects
