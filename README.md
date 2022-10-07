@@ -25,5 +25,15 @@ A twitter clone where users sign in to twitter using their crypto wallet
 - [Build space](https://buildspace.so)
 - [Moralis Academy](https://academy.moralis.io)
 
+## Whitepapers
+- [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
+
 ## Web3 articles 
 - [What Is Web3 All About? An Easy Explanation With Examples](https://www.forbes.com/sites/bernardmarr/2022/01/24/what-is-web3-all-about-an-easy-explanation-with-examples/?sh=3e7e30cb2255)
+- [Beginner's guide to full stack ethereum/web3 dev](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
+- [Beginner's guide to NFT's](https://opensea.io/blog/guides/non-fungible-tokens/)
+- [Beginner's guide to eth.build - An Educational Sandbox For Web3](https://opensea.io/blog/guides/non-fungible-tokens/)
+- [Learn Web3 dev by building a dapp on ethereum (with IPFS)](https://hackernoon.com/learn-web-3-0-by-actually-deploying-an-application-on-it-hands-on-approach-9141ad88588f)
+- [Solana developer Resources](https://solana.com/developers)
+- [The complete roadmap and resources to become a web3 developer](https://blog.suhailkakar.com/the-complete-roadmap-and-resources-to-become-a-web3-developer-in-2022)
