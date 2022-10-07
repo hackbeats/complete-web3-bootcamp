@@ -24,6 +24,7 @@ A twitter clone where users sign in to twitter using their crypto wallet
 - [Figment](https://figment.io)
 - [Build space](https://buildspace.so)
 - [Moralis Academy](https://academy.moralis.io)
+- [Metaschool](https://metaschool.so/)
 
 ## Whitepapers
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
