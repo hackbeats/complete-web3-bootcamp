@@ -37,3 +37,5 @@ A twitter clone where users sign in to twitter using their crypto wallet
 - [Learn Web3 dev by building a dapp on ethereum (with IPFS)](https://hackernoon.com/learn-web-3-0-by-actually-deploying-an-application-on-it-hands-on-approach-9141ad88588f)
 - [Solana developer Resources](https://solana.com/developers)
 - [The complete roadmap and resources to become a web3 developer](https://blog.suhailkakar.com/the-complete-roadmap-and-resources-to-become-a-web3-developer-in-2022)
+- [Become a blockchain Expert: Beginner to Advanced (for FREE)](https://trustchain.medium.com/become-a-blockchain-expert-beginner-to-advanced-for-free-65ce62606176)
+
