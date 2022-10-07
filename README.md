@@ -72,6 +72,7 @@ A twitter clone where users sign in to twitter using their crypto wallet
 - [30 Days of Web3](https://30daysofweb3.xyz)
 - [Web3.university](https://www.web3.university)
 - [Metaschool](https://metaschool.so/)
+- [Alchemy](https://www.alchemy.com/)
 
 
 ## Whitepapers
