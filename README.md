@@ -26,6 +26,7 @@ A twitter clone where users sign in to twitter using their crypto wallet
 - [Moralis Academy](https://academy.moralis.io)
 - [Metaschool](https://metaschool.so)
 
+
 ## Whitepapers
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
