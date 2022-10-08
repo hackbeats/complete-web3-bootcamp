@@ -16,9 +16,9 @@
 
 **3) Create a new issue detailing what you want to add and create a branch from the issue**
 
-**4) Add your details in the CONTRIBUTING.md file⭐**
+**4) Add your details in the [CONTRIBUTING.md](CONTRIBUTING.md) file⭐**
 
-**5) check for tags like `hacktoberfest` , `goofirstissue` or generate  a new issue if you have some crazy ideas 
+**5) check for tags like `hacktoberfest` , `good first issue` or generate  a new issue if you have some crazy ideas**
 
 # Some Code Guidelines
 
@@ -43,7 +43,6 @@ Learn full stack web3 development in just 6 months
 <br>
 
 </p>
-
 
 
 
