@@ -79,8 +79,7 @@ A twitter clone where users sign in to twitter using their crypto wallet
 ## Whitepapers
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
-- [Polygon whitepaper](https://polygon.technology/lightpaper-polygon.pdf)
-
+- [Bnbchain whitepaper](https://github.com/bnb-chain/whitepaper/blob/master/WHITEPAPER.md)
 ## Web3 articles 
 - [What Is Web3 All About? An Easy Explanation With Examples](https://www.forbes.com/sites/bernardmarr/2022/01/24/what-is-web3-all-about-an-easy-explanation-with-examples/?sh=3e7e30cb2255)
 - [Beginner's guide to full stack ethereum/web3 dev](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
