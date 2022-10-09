@@ -96,3 +96,5 @@ A twitter clone where users sign in to twitter using their crypto wallet
 - [Become a blockchain Expert: Beginner to Advanced (for FREE)](https://trustchain.medium.com/become-a-blockchain-expert-beginner-to-advanced-for-free-65ce62606176)
 - [Why NFTs are hard to explain](https://medium.com/@nic__carter/why-nfts-are-hard-to-explain-48f0ab0a35bf)
 
+## Web3 communities 
+- [Developer DAO ](https://www.developerdao.com/)
