@@ -85,6 +85,7 @@ A twitter clone where users sign in to twitter using their crypto wallet
 - [Near Whitepaper](https://near.org/papers/the-official-near-white-paper/)
 - [Celo whitepaper](https://celo.org/papers)
 - [Deso Chain Whitepapers](https://docs.deso.org/about-deso-chain/readme)
+
 ## Web3 articles 
 - [What Is Web3 All About? An Easy Explanation With Examples](https://www.forbes.com/sites/bernardmarr/2022/01/24/what-is-web3-all-about-an-easy-explanation-with-examples/?sh=3e7e30cb2255)
 - [Beginner's guide to full stack ethereum/web3 dev](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
@@ -98,3 +99,13 @@ A twitter clone where users sign in to twitter using their crypto wallet
 
 ## Web3 communities 
 - [Developer DAO ](https://www.developerdao.com/)
+- [Gitcoin](discord.gg/gitcoin)
+- [Buildspace](https://discord.gg/buildspace)
+- [Alchemy](https://discord.gg/mMGsVgd)
+- [Moralis DAO](https://moralis.io/joindiscord/)
+- [Solana Community](https://solana.com/community)
+- [Ethereum Community](https://ethereum.org/en/)
+- [Maker DAO](https://makerdao.com/en/community/)
+- [Chainlink Community](https://chain.link/community)
+
+
