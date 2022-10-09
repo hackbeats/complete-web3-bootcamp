@@ -6,7 +6,7 @@
 
 ## You need to generate 4 valid pull request and want to contribute in opensource
 
-### let's discuss how you can contribute in *hacktoberfest 2022* 🙌
+### Let's discuss how you can contribute in *hacktoberfest 2022* 🙌
 
 ### Rules
 
@@ -18,7 +18,7 @@
 
 **4) Add your details in the [CONTRIBUTING.md](CONTRIBUTING.md) file⭐**
 
-**5) check for tags like `hacktoberfest` , `good first issue` or generate  a new issue if you have some crazy ideas**
+**5) Check for tags like `hacktoberfest` , `good first issue` or generate  a new issue if you have some crazy ideas**
 
 # Some Code Guidelines
 
@@ -36,7 +36,7 @@ Learn full stack web3 development in just 6 months
 </p>
 
 <p align="center">
-<b><a href="https://discord.gg/DDAFdSRu" target="_blank">
+<b><a href="https://discord.gg/RJQ57S8NeF" target="_blank">
 <font size="100"> Be a part of our Community on Discord 🚀</font>
 </a>
 </b>
