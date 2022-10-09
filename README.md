@@ -1,14 +1,16 @@
 <img src='https://i.imgur.com/ec58cKI.jpg'/>
 
-## Hey 👋 everyone , *hacktoberfest* is back with biggest beginners friendly opensource event. Event will start from 1st of October and will remain upto 31st October 2022
+### Hey everyone👋
 
-### What you need to do in this event?
+### *Hacktoberfest* is back with biggest beginners friendly opensource event. Event will start from 1st of October and will remain upto 31st October 2022.
 
-## You need to generate 4 valid pull request and want to contribute in opensource
+## What you need to do in this event?
 
-### let's discuss how you can contribute in *hacktoberfest 2022* 🙌
+### You need to generate 4 valid pull request and want to contribute in opensource
 
-### Rules
+### Let's discuss how you can contribute in *Hacktoberfest 2022* 🙌
+
+## Rules
 
 **1) Fork this repository first**
 
@@ -18,7 +20,7 @@
 
 **4) Add your details in the CONTRIBUTING.md file⭐**
 
-**5) check for tags like `hacktoberfest` , `goofirstissue` or generate  a new issue if you have some crazy ideas 
+**5) Check for tags like `hacktoberfest` , `goofirstissue` or generate  a new issue if you have some crazy ideas**
 
 # Some Code Guidelines
 
