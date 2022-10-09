@@ -81,8 +81,9 @@ A twitter clone where users sign in to twitter using their crypto wallet
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 - [Bnbchain Whitepaper](https://github.com/bnb-chain/whitepaper/blob/master/WHITEPAPER.md)
 - [Shardeum Whitepaper](https://shardeum.org/Shardeum-Litepaper.pdf)
-- [Bnbchain whitepaper](https://github.com/bnb-chain/whitepaper/blob/master/WHITEPAPER.md)
+- [Bnbchain Whitepaper](https://github.com/bnb-chain/whitepaper/blob/master/WHITEPAPER.md)
 - [Near Whitepaper](https://near.org/papers/the-official-near-white-paper/)
+- [Celo whitepaper](https://celo.org/papers)
 
 ## Web3 articles 
 - [What Is Web3 All About? An Easy Explanation With Examples](https://www.forbes.com/sites/bernardmarr/2022/01/24/what-is-web3-all-about-an-easy-explanation-with-examples/?sh=3e7e30cb2255)
