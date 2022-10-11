@@ -107,5 +107,5 @@ A twitter clone where users sign in to twitter using their crypto wallet
 - [Ethereum Community](https://ethereum.org/en/)
 - [Maker DAO](https://makerdao.com/en/community/)
 - [Chainlink Community](https://chain.link/community)
-
+- [Super team DAO](https://superteam.fun/) 
 
