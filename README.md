@@ -75,6 +75,7 @@ A twitter clone where users sign in to twitter using their crypto wallet
 - [Codeacademy Introduction to Blockchain and Crypto](https://www.codecademy.com/pages/blockchain-crypto)
 - [useweb3](https://www.useweb3.xyz/)
 - [Chainlink Bootcamps](https://chain.link/bootcamp)
+- [Quest Book ] (https://openquest.xyz/)
 
 ## Whitepapers
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
