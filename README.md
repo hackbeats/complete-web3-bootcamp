@@ -36,7 +36,7 @@ Learn full stack web3 development in just 6 months
 </p>
 
 <p align="center">
-<b><a href="https://discord.gg/RJQ57S8NeF" target="_blank">
+<b><a href="https://discord.com/invite/fnuGHcwwAP" target="_blank">
 <font size="100"> Be a part of our Community on Discord 🚀</font>
 </a>
 </b>
